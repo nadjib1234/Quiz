@@ -34,11 +34,13 @@ The Quiz App is a mobile application developed using React Native, specifically 
 
 2. Navigate to the project directory:
 
-- cd Quiz
-
+   ```bash
+   cd Quiz
 
 3. Install dependencies:
-- npm install
+   ```bash
+   npm install
 
 4. Start the Expo development server:
-- expo start
+   ```bash
+     expo start
